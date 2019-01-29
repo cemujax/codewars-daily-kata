@@ -1,0 +1,28 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "codewars-daily-kata",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest -o --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemujax/codewars-daily-kata.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": {
+    "name": "cemujax",
+    "email": "cemujax@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemujax/codewars-daily-kata/issues"
+  },
+  "homepage": "https://github.com/cemujax/codewars-daily-kata#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
