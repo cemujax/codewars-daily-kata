@@ -1,13 +1,3 @@
-/**
- * Your task is to return a string giving these 3 values. For the example given above,
- * the string result will be "Range: 00|47|18 Average: 01|35|15 Median: 01|32|34"
- * of the form: "Range: hh|mm|ss Average: hh|mm|ss Median: hh|mm|ss"
- * where hh, mm, ss are integers (represented by strings) with each 2 digits.
- *
- * @url : https://www.codewars.com/kata/statistics-for-an-athletic-association/train/javascript
- *
- */
-
 const stat = strg => {
   const _timeToSec = time => {
     return time.split("|").reduce((acc, v, i) => {
