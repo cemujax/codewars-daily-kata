@@ -6,7 +6,7 @@
 
 ## Purpose
 
-I will solve at least 1 Kata everyday.And I provide solution and test case.
+I will solve at least 1 Kata everyday. And I provide solution and test case.
 
 ## Language
 
