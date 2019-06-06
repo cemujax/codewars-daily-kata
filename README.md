@@ -1,6 +1,6 @@
 # Codewars-Daily-Kata
 
-<a title="codewars page" href="https://www.codewars.com"><img src="https://imgur.com/p7cQPv5" width="100" height="100" ></a>
+<a title="codewars page" href="https://www.codewars.com"><img src="https://i.imgur.com/p7cQPv5.jpg" width="100" height="100" ></a>
 
 **Codewars** is an educational community for computer programming. On the platform, software developers train on **programming challenges** known as **kata**.
 
